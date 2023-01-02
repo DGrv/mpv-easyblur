@@ -39,11 +39,11 @@ mp.add_key_binding("c", "easyblur", easyblur_activate)
 
 **Input:**
 
-![](/assets/Input_easyblur_example..gif)
+![](/assets/Input_easyblur_example.gif)
 
 **Output:**
 
-![](/assets/Output_easyblur_example..gif)
+![](/assets/Output_easyblur_example.gif)
 
 ### License
 
