@@ -35,6 +35,16 @@ changed in the lua script:
 mp.add_key_binding("c", "easyblur", easyblur_activate)
 ```
 
+### Example 
+
+**Input:**
+
+![](/assets/Input_easyblur_example..gif)
+
+**Output:**
+
+![](/assets/Output_easyblur_example..gif)
+
 ### License
 
 GPLv3
