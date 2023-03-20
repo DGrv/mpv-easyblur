@@ -1,6 +1,6 @@
 ## easycrop
 
-A simple mpv script for manually blurring an aera of a video.
+A simple mpv script for manually blurring an area of a video.
 
 Based on [mpv-easycrop](https://github.com/aidanholm/mpv-easycrop).
 Based on [mpv-easycrop](https://github.com/aidanholm/mpv-easycrop).
